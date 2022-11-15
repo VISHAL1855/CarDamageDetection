@@ -5,4 +5,5 @@ Created own dataset and annoted damages in the types like Scratch,Dents,Dislocat
 Used Detectron2 and Faster RCNN R50 model for training.<br />
 Deployed using Gradio app and hosted on huggingface.<br />
 Own COCO Format dataset created. Model training code availabel in ipynb file.<br />
-app.py is gradio file.
+app.py is gradio file.<br />
+mycongif file is the file required for the our models custom configuration save it during the training.
